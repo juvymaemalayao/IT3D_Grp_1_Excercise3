@@ -31,6 +31,6 @@
   echo "<p>$file_contents</p>";
   echo "</div>";
 
-  echo "</div>";  // End of the main container div
+  echo "</div>";  
 ?>
 
